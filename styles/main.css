@@ -1,0 +1,39 @@
+main {
+    flex: 1;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 100%;
+    max-width: 1440px;
+}
+
+p,
+#logo,
+#trailer {
+    margin-left: 40px;
+}
+
+button {
+    margin-left: 20px;
+    background-color: var(--red);
+    border:none ;
+    color: white;
+    font-weight: 700;
+    height: 40px;
+    
+
+    text-align: center;
+    align-items: center;
+    width: 150px;
+    margin: 20px;
+    border-radius: 10px;
+    transition: 1.0s;
+}
+
+button:hover {
+    scale: 1.2;
+    background-color: green;
+
+}
