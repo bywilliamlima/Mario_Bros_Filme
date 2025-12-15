@@ -14,5 +14,4 @@ Projeto de uma **Landing Page temática do filme The Super Mario Bros**, desenvo
 - **Vídeo em background**
 - **SVG Icons**
 
-## 📁 Estrutura de Pastas
 
